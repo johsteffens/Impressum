@@ -4,7 +4,8 @@
 
 Verantwortlich für GitHub-Inhalte unter dem Benutzernamen **johsteffens**:
 
-**Dipl.-Phys. Johannes Bernhard Steffens <br>
+**Dipl.-Phys. <br>
+Johannes Bernhard Steffens <br>
 Biberstraße 10 <br>
 26810 Westoverledingen** <br>
 (Germany)
