@@ -14,7 +14,7 @@ Biberstraße 10 <br>
 **E-Mail: johannes.b.steffens@gmail.com**
 
 ### Urheberrecht
-GitHub-Inhalte unter dem Benutzernamen **johsteffens** unterliegen deutschem, US- bzw. internationalem Urheberrecht. Soweit nicht anders angegeben, verbleiben alle Rechte beim Autor. Die Nutzung der Inhalte einzelner Repositories wird ggf. durch eine spezifische Lizenz gewährt, die im jeweiligen Repository zu finden ist.
+GitHub-Inhalte unter dem Benutzernamen **johsteffens** unterliegen deutschem, US- bzw. internationalem Urheberrecht. Soweit nicht anders angegeben, verbleiben alle Rechte beim Autor. Die Nutzung der Inhalte einzelner Repositories wird ggf. durch eine spezifische Lizenz geregelt, die im jeweiligen Repository zu finden ist.
 
 ### Datenschutz & Cookies
 Ich habe keinen Einfluss auf Erhebung und Verarbeitung von Daten durch die Nutzung dieser Git-Hub Seite (z.B. das Ansehen oder Herunterladen meiner Repositories). Das Gleiche gilt für die Verwendung von Cookies. Dies liegt im Verantwortungsbereich GitHubs und wird in dessen [Datenschutzerklärung (Privacy-Statement)](https://help.github.com/articles/github-privacy-statement) erläutert.
