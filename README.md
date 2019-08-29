@@ -21,7 +21,7 @@ Ich habe keinen Einfluss auf Erhebung und Verarbeitung von Daten durch die Nutzu
 
 ### Forks
 Ein _Fork_ ist ein importiertes Repository, das nicht von mir erstellt aber in der Regel von mir verändert wurde. Ein Fork ist 
-als solcher gekennzeichnet _(Forked from ...)_. Forks überprüfe ich inhaltlich soweit das für den Zweck des Forks durchführbar und zumutbar ist. Ich kann aber i.d. Regel nicht Verantwortung für sämtliche Teile übernehmen, die ursprünglich nicht von mir stammen. Wie bei allen Repositories sind die jeweiligen Beiträge aller Personen in der Historie nachvollziehbar. Falls Inhalte rechtlich zu beanstanden sind, bin ich für einen entsprechenden Hinweis dankbar.
+als solcher gekennzeichnet _(Forked from ...)_. Forks überprüfe ich inhaltlich soweit das für den Zweck des Forks durchführbar und zumutbar ist. Ich kann aber i.d. Regel nicht Verantwortung für sämtliche Teile übernehmen, die ursprünglich nicht von mir stammen. Wie bei allen Repositories, sind die jeweiligen Beiträge aller Personen in der Historie nachvollziehbar. Falls Inhalte rechtlich zu beanstanden sind, bin ich für einen entsprechenden Hinweis dankbar.
 
 ### Externe Links
 Ein externer Link ist daran zu erkennen, dass er auf eine Webadresse außerhalb [github.com/johsteffens/...](https://github.com/johsteffens) verweist. Dies ist in der Regel eine Seite, die nicht von mir verwaltet wird. Je nach Kontext stellt dieser Link eine Quellenangabe, Empfehlung oder weiterführende Information dar. Außer dem Setzen des Links habe ich keinen Einfluss auf das inhaltliche Erscheinungsbild (z.B. durch nachträgliche Veränderungen) solcher Seiten.
