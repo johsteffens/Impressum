@@ -20,7 +20,7 @@ GitHub-Inhalte unter dem Benutzernamen **johsteffens** unterliegen deutschem, US
 Ich habe keinen Einfluss auf Erhebung und Verarbeitung von Daten durch die Nutzung dieser Git-Hub Seite (z.B. das Ansehen oder Herunterladen meiner Repositories). Das Gleiche gilt für die Verwendung von Cookies. Dies liegt im Verantwortungsbereich GitHubs und wird in dessen [Datenschutzerklärung (Privacy-Statement)](https://help.github.com/articles/github-privacy-statement) erläutert.
 
 ### Forks
-Ein _Fork_ ist ein importiertes Repository, das nicht von mir erstellt aber von mir verändert wurde oder eine Veränderung geplant ist. 
+Ein _Fork_ ist ein importiertes Repository, das nicht von mir erstellt aber von mir verändert wurde, oder eine Veränderung geplant ist. 
 Ein Fork ist als solcher gekennzeichnet _(Forked from ...)_. Forks überprüfe ich inhaltlich soweit das für den Zweck des Forks durchführbar und zumutbar ist. Ich kann aber i.d. Regel nicht Verantwortung für sämtliche Teile übernehmen, die ursprünglich nicht von mir stammen. Wie bei allen Repositories sind die jeweiligen Beiträge aller Personen in der Historie nachvollziehbar. Falls Inhalte rechtlich zu beanstanden sind, bin ich für einen entsprechenden Hinweis dankbar.
 
 GitHub Artikel über Forks: https://help.github.com/en/articles/fork-a-repo
