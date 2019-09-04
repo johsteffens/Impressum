@@ -11,7 +11,7 @@ Biberstraße 10 <br>
 (Germany)
 
 **Tel.: +49 (0) 4961 768216** <br>
-**E-Mail: johannes.b.steffens@gmail.com**
+**E-Mail: johannes.b.steffens @ gmail.com**
 
 ### Urheberrecht
 GitHub-Inhalte unter dem Benutzernamen **johsteffens** unterliegen deutschem, US- bzw. internationalem Urheberrecht. Soweit nicht anders angegeben, verbleiben alle Rechte beim Autor. Die Nutzung der Inhalte einzelner Repositories wird ggf. durch eine oder mehrere Lizenzen geregelt, die im jeweiligen Repository zu finden sind.
