@@ -33,7 +33,7 @@ oder eine Veränderung geplant ist.
 Ein Fork ist als solcher gekennzeichnet _(Forked from ...)_.
 Forks überprüfe ich inhaltlich soweit das für den Zweck des Forks durchführbar und zumutbar ist.
 Ich kann aber i.d. Regel nicht Verantwortung für sämtliche Teile übernehmen, die ursprünglich nicht von mir stammen.
-Wie bei allen Repositories sind die jeweiligen Beiträge aller Personen in der Historie nachvollziehbar.
+Wie bei normalen Repositories sind auch bei einem Fork die jeweiligen Beiträge aller Personen in der Historie nachvollziehbar.
 Falls Inhalte rechtlich zu beanstanden sind, bin ich für einen entsprechenden Hinweis dankbar.
 
 GitHub Artikel über Forks: https://help.github.com/en/articles/fork-a-repo
