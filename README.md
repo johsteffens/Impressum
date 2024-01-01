@@ -10,7 +10,7 @@ Biberstraße 10 <br>
 26810 Westoverledingen** <br>
 (Germany)
 
-**Tel.: +49 (0) 4961 768216** <br>
+**Tel.: +49 4961 768216** <br>
 **E-Mail: johannes.b.steffens @ gmail.com**
 
 ### Urheberrecht
