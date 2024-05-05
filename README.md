@@ -42,7 +42,7 @@ GitHub Artikel über Forks: https://help.github.com/en/articles/fork-a-repo
 Ein externer Link ist daran zu erkennen, dass er auf eine Webadresse 
 außerhalb [github.com/johsteffens/...](https://github.com/johsteffens) verweist. 
 
-Je nach Kontext stellt dieser Link eine Quellenangabe, Empfehlung oder weiterführende Information dar. 
+Je nach Kontext stellt ein externer Link eine Quellenangabe, Empfehlung oder weiterführende Information dar. 
 Außer dem Setzen des Links habe ich keinen Einfluss auf das inhaltliche
 Erscheinungsbild (z.B. durch nachträgliche Veränderungen) solcher Seiten, es sei denn die Zielseite 
 wird von mir verwaltet.
